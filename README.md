@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Timur Zhumataev  
+# 👋 Hi
 
 💻 **Backend Developer | Python & Java Enthusiast**  
 🌍 Based in Kyrgyzstan | Passionate about coding, problem-solving & open source.  
